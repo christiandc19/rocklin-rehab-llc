@@ -4,8 +4,8 @@ import Fade from 'react-reveal/Fade';
 import { Link as LinkRoll } from 'react-scroll'
 
 
-import IopSection1 from '../../assets/IopSection1.webp'
-import PhpSection2 from '../../assets/PhpSection2.webp'
+import IopSection1 from '../../assets/IopSection1.jpg'
+import PhpSection2 from '../../assets/PhpSection2.jpg'
 
 
 const IopSection = () => {
@@ -21,6 +21,7 @@ const IopSection = () => {
         If the patient has a strong, supportive family and group of friends/peers, they will be able to undergo care with us, but also be able to live at home. </p>
         <br />
         <h1 className='header'>WHAT TO EXPECT THROUGHOUT THE PROGRAM</h1>
+        <br/>
         <p>Considered our mid-tier intensive care, the program consists of 3 hours of clinical services 3-5 days per week. Patients also participate in group therapy sessions (2 per day) with any additional sessions available if deemed necessary. We also offer several other therapeutic options, such as:</p>
         <br />
         <ul>
@@ -57,7 +58,7 @@ const IopSection = () => {
         <br/><br/>
 
         <p>
-        At Rocklin Rehab Center, we provide several other avenues of addiction treatment. In addition to our partial hospitalization program, we offer:</p>
+        At Rocklin Rehab Treatment Center, we provide several other avenues of addiction treatment. In addition to our partial hospitalization program, we offer:</p>
         <br />
         <ul>
             <li><p>Partial Hospitalization Program - IOP</p></li>

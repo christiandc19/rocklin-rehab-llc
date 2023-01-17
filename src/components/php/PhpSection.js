@@ -4,9 +4,9 @@ import Fade from 'react-reveal/Fade';
 import { Link as LinkRoll } from 'react-scroll'
 
 
-import PhpSection1 from '../../assets/PhpSection1.webp'
-import PhpSection2 from '../../assets/PhpSection2.webp'
-import PhpSection3 from '../../assets/PhpSection3.webp'
+import PhpSection1 from '../../assets/PhpSection1.jpg'
+import PhpSection2 from '../../assets/PhpSection2.jpg'
+import PhpSection3 from '../../assets/PhpSection3.jpg'
 
 
 const PhpSection = () => {
@@ -45,7 +45,6 @@ const PhpSection = () => {
 {/* SECTION 2 */}
 
 <div className='wrap'>
-
 <Fade left>
     <div className="box">
         <img src={PhpSection2} width="600px" height="380px" alt="Palm Springs Rehab Logo" loading="lazy" />
@@ -76,7 +75,7 @@ const PhpSection = () => {
         <br/><br/>
 
         <p>
-        At Rocklin Rehab Center, we provide several other avenues of addiction treatment. In addition to our partial hospitalization program, we offer:</p>
+        At Rocklin Rehab Treatment Center, we provide several other avenues of addiction treatment. In addition to our partial hospitalization program, we offer:</p>
         <br />
         <ul>
             <li><p>Intensive Outpatient Program - IOP</p></li>
