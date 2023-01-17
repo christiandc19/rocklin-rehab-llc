@@ -1,6 +1,6 @@
 .contactForm-mainContainer {
     width: 100%;
-    background: rgba(0, 0, 0, .4);
+    background: rgba(0, 0, 0, .8);
     position: relative;
 
 }
@@ -38,7 +38,7 @@
 }
 
 .contact-container form {
-    height: 37rem;
+    height: 39rem;
     width: 300px;
     /* background: url('../../assets/menu-bg.jpg') no-repeat center center/cover; */
     border-radius: 1rem;
@@ -93,6 +93,10 @@ form {
 .email-input {
     height: 10rem;
 }
+
+textarea {
+    resize: none;
+  }
 
 h1 {
     text-align: center;
