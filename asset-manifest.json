@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/rocklin-rehab-llc/static/css/main.eacb9250.css",
-    "main.js": "/rocklin-rehab-llc/static/js/main.5c5a1a31.js",
+    "main.css": "/rocklin-rehab-llc/static/css/main.46bc70cd.css",
+    "main.js": "/rocklin-rehab-llc/static/js/main.ab18795f.js",
     "static/media/menu-bg.jpg": "/rocklin-rehab-llc/static/media/menu-bg.3a1161f497962e8150d5.jpg",
     "static/media/footer-bg.webp": "/rocklin-rehab-llc/static/media/footer-bg.82fabf297fc0244dc3a5.webp",
+    "static/media/treatment-1.jpg": "/rocklin-rehab-llc/static/media/treatment-1.9b93aa36872433733c19.jpg",
+    "static/media/treatment-2.jpg": "/rocklin-rehab-llc/static/media/treatment-2.6125ee1c93e30c1b25e6.jpg",
     "static/media/hero-image.jpg": "/rocklin-rehab-llc/static/media/hero-image.2eb1f2fe7e763cbd6c2d.jpg",
     "static/media/activity.jpg": "/rocklin-rehab-llc/static/media/activity.33d7acdd84683e4be13f.jpg",
     "static/media/therapy.jpg": "/rocklin-rehab-llc/static/media/therapy.16ffd31bf0d0f6a6a2d2.jpg",
-    "static/media/treatment-image-1.jpg": "/rocklin-rehab-llc/static/media/treatment-image-1.1f07c60aa076f478b2f8.jpg",
     "static/media/card2.jpg": "/rocklin-rehab-llc/static/media/card2.d0b3b45cadd99e5820c4.jpg",
     "static/media/staff.jpg": "/rocklin-rehab-llc/static/media/staff.4d703a9340e5ca8aa595.jpg",
     "static/media/card3.jpg": "/rocklin-rehab-llc/static/media/card3.2350950b2e532afd5f37.jpg",
@@ -30,11 +31,11 @@
     "static/media/aetna.png": "/rocklin-rehab-llc/static/media/aetna.ba1c7baa5f90d207ae2b.png",
     "static/media/bluecross.png": "/rocklin-rehab-llc/static/media/bluecross.2f180be7d5ab799101c3.png",
     "index.html": "/rocklin-rehab-llc/index.html",
-    "main.eacb9250.css.map": "/rocklin-rehab-llc/static/css/main.eacb9250.css.map",
-    "main.5c5a1a31.js.map": "/rocklin-rehab-llc/static/js/main.5c5a1a31.js.map"
+    "main.46bc70cd.css.map": "/rocklin-rehab-llc/static/css/main.46bc70cd.css.map",
+    "main.ab18795f.js.map": "/rocklin-rehab-llc/static/js/main.ab18795f.js.map"
   },
   "entrypoints": [
-    "static/css/main.eacb9250.css",
-    "static/js/main.5c5a1a31.js"
+    "static/css/main.46bc70cd.css",
+    "static/js/main.ab18795f.js"
   ]
 }
