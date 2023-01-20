@@ -70,6 +70,7 @@
     margin: .5rem 0;
 }
 
+
 .footer form {
     width: 100%;
     margin-bottom: .6rem;
@@ -109,6 +110,26 @@
     color: #f8f8f8;
     font-size: 3rem;
 }
+
+.link.active.wobble {
+    animation: wobble 5s 1;
+}
+
+@keyframes wobble {
+    25% {
+      transform: rotate(15deg);
+    }
+    50% {
+      transform: rotate(-30deg);
+    }
+    75% {
+      transform: rotate(5deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+  
 
 
 @media screen and (max-width: 940px) {
