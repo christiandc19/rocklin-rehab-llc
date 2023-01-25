@@ -1,19 +1,101 @@
 import React from 'react'
 import './Cards.css'
-import ServicesCards from '../props/CardProps';
+// import ServicesCards from '../props/CardProps';
 
-import Fade from 'react-reveal/Fade';
+// import Fade from 'react-reveal/Fade';
 
 
-import Card1 from '../../assets/card1.jpg'
-import Card2 from '../../assets/card2.jpg'
-import Card3 from '../../assets/card3.jpg'
+// import Card1 from '../../assets/card1.jpg'
+// import Card2 from '../../assets/card2.jpg'
+// import Card3 from '../../assets/card3.jpg'
 
 
 const Cards = () => {
   return (
     <>
 
+<div className="wrapper">
+  <h1 className='card-header'>WE OFFER VARIOUS SERVICES</h1>
+
+  <div className="cols">
+
+			<div className="column" ontouchstart="this.classList.toggle('hover');">
+				<div className="container">
+					<div className="front">
+						<div className="inner cardOneImage">
+							<p className='service-name'>MENTAL HEALTH TREATMENT</p>
+              {/* <span>Lorem ipsum</span> */}
+						</div>
+					</div>
+					<div className="back">
+						<div className="inner">
+						  <p>Some of our clients are here to attend to their mental health, and some come to us for help with addiction and sobriety. Depending on your needs, we offer treatment for co-occurring disorders that can address both mental health and addiction disorders at the same time.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+			<div className="column" ontouchstart="this.classList.toggle('hover');">
+				<div className="container">
+					<div className="front" >
+						<div className="inner">
+							<p className='service-name'>SUBSTANCE USE TREATMENT</p>
+              {/* <span>Lorem ipsum</span> */}
+						</div>
+					</div>
+					<div className="back">
+						<div className="inner">
+							<p>No matter what type of addiction or mental health condition you are dealing with, there’s something for everyone at Rocklin Rehab Treatment Center.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div className="column" ontouchstart="this.classList.toggle('hover');">
+				<div className="container">
+					<div className="front">
+						<div className="inner">
+							<p className='service-name'>EMPLOYMENT ASSISTANCE</p>
+              {/* <span>Lorem ipsum</span> */}
+						</div>
+					</div>
+					<div className="back">
+						<div className="inner">
+							<p>We offer a variety of employment tools and resources to help you land on your feet and get hired at a great company in recovery.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{/* 
             <div className="cards-header container">
                 <h1>WE OFFER VARIOUS SERVICES </h1>
                 <br/>
@@ -46,7 +128,7 @@ const Cards = () => {
                     />
                 </Fade>
             </div>
-        </div>
+        </div> */}
     </>
   )
 }

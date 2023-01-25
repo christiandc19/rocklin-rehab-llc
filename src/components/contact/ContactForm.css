@@ -1,6 +1,6 @@
 .contactForm-mainContainer {
     width: 100%;
-    background: rgba(0, 0, 0, .8);
+    background: rgba(255, 255, 255, 0.8);
     position: relative;
 
 }
@@ -19,19 +19,16 @@
     flex-wrap: wrap;
 }
 
-.location p {
-    color: white;
+.location p, .location a, .location h1 {
+    color: rgb(51, 50, 50);
 }
 
 .contactForm h1 {
     margin-top: 1rem;
-    color: white;
+    color: var(--primary-color);
     font-size: 2rem;
 }
 
-.location h1 {
-    color: white;
-}
 
 .contactForm .admission {
     margin-bottom: 5rem;
@@ -40,14 +37,11 @@
 .contact-container form {
     height: 39rem;
     width: 300px;
-    /* background: url('../../assets/menu-bg.jpg') no-repeat center center/cover; */
+    background: url('../../assets/menu-bg.jpg') no-repeat center center/cover;
     border-radius: 1rem;
-    border: 1px solid rgb(255, 255, 255);
+    border: 1px solid var(--primary-color);
 }
 
-form {
-    border: 1px black;
-    }
 
 .email-input {
     height: 10rem;
@@ -86,7 +80,7 @@ form {
     margin: 2rem;
     display: block;
     padding: 1.2rem;
-    border: 2px solid var(--color-bg-variant);
+    border: 1px solid rgba(241, 158, 241, 0.397);
     border-radius: 0.5rem;
 }
 

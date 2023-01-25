@@ -280,9 +280,15 @@ margin: 0px 5px;
     border-radius: 10px;
 }
 
-p {
-    font-size: 15px;
+.prog-link {
+  color: var(--primary-color);
+  font-size: 13px;
 }
+
+.prog-link:hover {
+  color: orange;
+}
+
 
 /* SUBMENU MEDIA QUERIES */
 
@@ -319,7 +325,7 @@ p {
 .main-menu .main-menu-content {
   position: absolute;
   top: 30%;
-  width: 60%;
+  width: 75%;
   padding: 1rem;
 }
 
@@ -332,7 +338,7 @@ p {
 
 
 .main-menu p {
-  color: rgb(32, 32, 32);
+  color: rgb(82, 80, 79);
   margin: auto;
   text-align: justify;
   font-size: 16px;
@@ -375,7 +381,7 @@ p {
 
 .submenu .content {
   position: absolute;
-  top: 30%;
+  top: 25%;
   padding: 0 10px;
   width: 60%;
 }
@@ -388,7 +394,7 @@ p {
 }
 
 .submenu p {
-  color: rgb(46, 46, 46);
+  color: rgb(82, 80, 79);
   text-align: justify;
 }
 
