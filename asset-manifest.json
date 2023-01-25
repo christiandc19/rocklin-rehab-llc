@@ -1,20 +1,18 @@
 {
   "files": {
-    "main.css": "/rocklin-rehab-llc/static/css/main.46bc70cd.css",
-    "main.js": "/rocklin-rehab-llc/static/js/main.ab18795f.js",
-    "static/media/menu-bg.jpg": "/rocklin-rehab-llc/static/media/menu-bg.3a1161f497962e8150d5.jpg",
-    "static/media/footer-bg.webp": "/rocklin-rehab-llc/static/media/footer-bg.82fabf297fc0244dc3a5.webp",
+    "main.css": "/rocklin-rehab-llc/static/css/main.6fac4912.css",
+    "main.js": "/rocklin-rehab-llc/static/js/main.2ff25048.js",
+    "static/media/submenu-bg.jpg": "/rocklin-rehab-llc/static/media/submenu-bg.73a93a79bdd8fba7ef66.jpg",
+    "static/media/menu-bg.jpg": "/rocklin-rehab-llc/static/media/menu-bg.a57594b90d7e0771f381.jpg",
     "static/media/treatment-1.jpg": "/rocklin-rehab-llc/static/media/treatment-1.9b93aa36872433733c19.jpg",
     "static/media/treatment-2.jpg": "/rocklin-rehab-llc/static/media/treatment-2.6125ee1c93e30c1b25e6.jpg",
     "static/media/hero-image.jpg": "/rocklin-rehab-llc/static/media/hero-image.2eb1f2fe7e763cbd6c2d.jpg",
     "static/media/activity.jpg": "/rocklin-rehab-llc/static/media/activity.33d7acdd84683e4be13f.jpg",
     "static/media/therapy.jpg": "/rocklin-rehab-llc/static/media/therapy.16ffd31bf0d0f6a6a2d2.jpg",
-    "static/media/card2.jpg": "/rocklin-rehab-llc/static/media/card2.d0b3b45cadd99e5820c4.jpg",
+    "static/media/footer-bg.jpg": "/rocklin-rehab-llc/static/media/footer-bg.41b9791404f6ed17af75.jpg",
     "static/media/staff.jpg": "/rocklin-rehab-llc/static/media/staff.4d703a9340e5ca8aa595.jpg",
-    "static/media/card3.jpg": "/rocklin-rehab-llc/static/media/card3.2350950b2e532afd5f37.jpg",
     "static/media/nav-logo.png": "/rocklin-rehab-llc/static/media/nav-logo.93eea5531d5db76a6784.png",
     "static/media/whatwedo.jpg": "/rocklin-rehab-llc/static/media/whatwedo.7dd6b5dbb2711fbdc32f.jpg",
-    "static/media/card1.jpg": "/rocklin-rehab-llc/static/media/card1.836bf8d412588c54b15c.jpg",
     "static/media/PhpSection3.jpg": "/rocklin-rehab-llc/static/media/PhpSection3.b181ff1a26ae4664f97b.jpg",
     "static/media/IopSection1.jpg": "/rocklin-rehab-llc/static/media/IopSection1.2c6d9291efd554cf9cd8.jpg",
     "static/media/OpSection1.jpg": "/rocklin-rehab-llc/static/media/OpSection1.dda466575667829e7928.jpg",
@@ -26,16 +24,15 @@
     "static/media/OpSection3.jpg": "/rocklin-rehab-llc/static/media/OpSection3.ec9fb5717069b32f8afd.jpg",
     "static/media/horizon.png": "/rocklin-rehab-llc/static/media/horizon.93f9071008042e378717.png",
     "static/media/clinic.jpg": "/rocklin-rehab-llc/static/media/clinic.221825817753a49607d2.jpg",
-    "static/media/submenu-bg.jpg": "/rocklin-rehab-llc/static/media/submenu-bg.f8eaf7e579254d393cb9.jpg",
     "static/media/umr.png": "/rocklin-rehab-llc/static/media/umr.0e284d15516d535bf42b.png",
     "static/media/aetna.png": "/rocklin-rehab-llc/static/media/aetna.ba1c7baa5f90d207ae2b.png",
     "static/media/bluecross.png": "/rocklin-rehab-llc/static/media/bluecross.2f180be7d5ab799101c3.png",
     "index.html": "/rocklin-rehab-llc/index.html",
-    "main.46bc70cd.css.map": "/rocklin-rehab-llc/static/css/main.46bc70cd.css.map",
-    "main.ab18795f.js.map": "/rocklin-rehab-llc/static/js/main.ab18795f.js.map"
+    "main.6fac4912.css.map": "/rocklin-rehab-llc/static/css/main.6fac4912.css.map",
+    "main.2ff25048.js.map": "/rocklin-rehab-llc/static/js/main.2ff25048.js.map"
   },
   "entrypoints": [
-    "static/css/main.46bc70cd.css",
-    "static/js/main.ab18795f.js"
+    "static/css/main.6fac4912.css",
+    "static/js/main.2ff25048.js"
   ]
 }
