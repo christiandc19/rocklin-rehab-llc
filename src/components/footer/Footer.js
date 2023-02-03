@@ -9,6 +9,8 @@ import { Link as LinkRoll } from 'react-scroll'
 
 const Footer = () => {
     return (
+
+<>
         <div className='footer'>
             <div className="container">
                 <div className="top">
@@ -97,13 +99,26 @@ const Footer = () => {
                         </LinkRoll>
                     </div>
 
+                    {/* <form>
+                        <h3>Join Our Team</h3>
+                        <input type="email" placeholder='Enter your email' />
+                        <FiMail className='mail-icon' />
+                        <div className="social-group">
+                            <FiInstagram className='social-icon' />
+                            <FiFacebook className='social-icon' />
+                            <FiLinkedin className='social-icon' />
+                            <FiDribbble className='social-icon' />
+                            <FiGithub className='social-icon' />
+                        </div>
+                    </form> */}
                 </div>
-                <p className='copyright'><p>&copy; 2023 Rocklin Rehab LLC. All rights reserved</p></p>
+                <p className='copyright'><p>&copy; 2023 Rocklin Rehab Treatment Center. All rights reserved</p></p>
 
 
             </div>
 
         </div>
+</>
     )
 }
 
