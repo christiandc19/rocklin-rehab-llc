@@ -112,9 +112,19 @@
 
 .copyright p{
     color: white;
+    text-transform: uppercase;
 }
 
 @media screen and (max-width: 940px) {
+
+    .footer h3 {
+        font-size: 14px;
+    }
+
+    .footer p {
+        font-size: 12px;
+    }
+
     .footer {
         height: 100%;
     }
@@ -127,6 +137,9 @@
         grid-column: 1 / span 2;
     }
 
+    /* .logo-footer img{
+        width: 50%;
+    } */
 }
 
 
